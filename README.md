@@ -22,7 +22,6 @@ Subnet Surgeon is a tool designed to aid in various subnetting calculations. Thi
 
 - Python 3.x
 - `tkinter` library (usually included with Python)
-- `matplotlib` library
 
 ### Installation
 
@@ -33,10 +32,6 @@ Subnet Surgeon is a tool designed to aid in various subnetting calculations. Thi
 2. **Navigate to the project directory**:
    ```sh
    cd sntss
-   ```
-3. **Install the required libraries**:
-   ```sh
-   pip install matplotlib
    ```
 
 ### Running Subnet Surgeon
@@ -52,10 +47,6 @@ python sntss.py
 2. **Input Fields**: Enter the required values in the input fields (e.g., IP address, subnet mask).
 3. **Calculate**: Click the corresponding button to perform the calculation.
 4. **Results**: View the results displayed on the screen, along with any relevant plots or visualizations.
-
-## Screenshots
-
-Include screenshots of the application in use to provide a visual guide for users.
 
 ## Contributing
 
