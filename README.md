@@ -1,6 +1,6 @@
 # Subnet Surgeon
 
-Subnet Surgeon is a tool designed to aid in various subnetting calculations. This utility provides a user-friendly interface for network administrators, students, and IT professionals to quickly and accurately perform subnetting tasks.
+Subnet Surgeon is a tool designed to aid in various subnetting operations. This utility provides a user-friendly interface for network administrators, students, and IT professionals to quickly and accurately perform subnetting tasks.
 
 ## Features
 
